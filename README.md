@@ -7,14 +7,14 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on custom WordPress themes and Next.js apps  
 - 🌱 Learning **TypeScript** and **Headless WordPress**  
-- 💬 Ask me about **React, Next.js, or WordPress**  
+- 💬 Ask me about **Next.js, or WordPress**  
 - ⚡ Fun fact: I love solving UI challenges and making micro-interactions!
 
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS  
-**Backend:** PHP, WordPress, MySQL  
+**Frontend:** HTML5, Bootstrap5, Next.js, JavaScript, Tailwind CSS  
+**Backend:** PHP, WordPress, Laravel, MySQL  
 **Tools:** Git, VS Code, Figma, Postman  
 
 ---
